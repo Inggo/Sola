@@ -1,0 +1,22 @@
+.nav-primary {
+    display: block;
+    margin: 0 auto;
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item {
+    width: 100px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 0 10px;
+}
+
+.sub-menu {
+    display: none;
+}

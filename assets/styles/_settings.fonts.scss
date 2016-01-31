@@ -1,7 +1,12 @@
 // Font Settings
+$font-family: 'Source Sans Pro', sans-serif;
 
 // Font Size settings
-$font-size-base:       16px !default;
+$font-size-base: 16px !default;
+
+// Font Weight settings
+$font-weight-base: 200;
+$font-weight-bold: 600;
 
 // Line Height settings
 $line-height-base:     1.428571429 !default; // 20/14

@@ -1,0 +1,14 @@
+a {
+    transition: color .5s;
+}
+
+a,
+a:link,
+a:visited {
+    text-decoration: none;
+    color: $link-color-base;
+}
+
+a:hover {
+    color: $link-color-hover;
+}
