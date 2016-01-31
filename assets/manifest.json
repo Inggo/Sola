@@ -8,6 +8,7 @@
     },
     "main.css": {
       "files": [
+        "styles/_tools.vendor.scss",
         "styles/main.scss"
       ],
       "main": true

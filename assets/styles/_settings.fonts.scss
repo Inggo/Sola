@@ -1,0 +1,9 @@
+// Font Settings
+
+// Font Size settings
+$font-size-base:       16px !default;
+
+// Line Height settings
+$line-height-base:     1.428571429 !default; // 20/14
+$line-height-computed: floor(($font-size-base * $line-height-base)) !default; // ~20px
+
